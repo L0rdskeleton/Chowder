@@ -36,14 +36,14 @@ img.chowder {
 }
 .cursor {
 	position:absolute;
-	background-image: url(assets/cursor.png);
+	background-image: url(assets/cursor.PNG);
 	width: 12px;
 	height: 21px;
 	z-index: 100;
 	background-attachment: fixed;
 }
 #drag {
-	background-image: url(assets/drag.png);
+	background-image: url(assets/drag.PNG);
 	width: 21px;
 }
 #exe {
